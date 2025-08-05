@@ -28,7 +28,7 @@ HRBR Layout Square – ₹8,602.65
 
 ## How to Run the Power BI Dashboard: 
 1). Download or clone the repository.             
-2). Open the file Rapido_Ride_Project(PDF).pdf (or .pbix if available) in Power BI Desktop.               
+2). Open the file Rapido_Ride_Dashboard(PDF).pdf (or .pbix) in Power BI Desktop.               
 3). Explore the visual dashboards covering:              
 * Ride volume and status
 * Revenue trends by month and service type
